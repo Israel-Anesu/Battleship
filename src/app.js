@@ -221,3 +221,4 @@ function sendMessage(message) {
 
 renderPlacement(5);
 sendMessage("Place your ships");
+
