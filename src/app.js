@@ -2,7 +2,6 @@ import {Player} from "./player";
 import {Ship} from "./ship";
 import "./styles.css";
 
-
 const playerSquares = document.querySelectorAll(".grid.player > .square");
 const computerSquares = document.querySelectorAll(".grid.computer > .square");
 const computerBoard = document.querySelector(".gameboard.computer");
